@@ -35,14 +35,13 @@ This case study uses the [Online Retail dataset](https://archive.ics.uci.edu/dat
 - online_retail_customer_segmentation/
 
   - Data/
-    - OnlineRetail.csv
+    - OnlineRetail.xlsx
 
   - SQL/
     - 01_clean.sql
     - 02_datatypes.sql
     - 03_calculated_metrics.sql
     - 04_customer_segments.sql
-    - 05_segment_analysis.sql
       
   - PowerBI/
     - OnlineRetail_Dashboard.pbix
