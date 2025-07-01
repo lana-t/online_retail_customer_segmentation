@@ -26,9 +26,8 @@ Segmented AS (
             WHEN R_Score = 4 AND F_Score = 4 AND M_Score = 4 THEN 'Champions'
             WHEN R_Score >= 3 AND F_Score >= 3 THEN 'Loyal Customers'
 			WHEN R_Score >= 2 AND F_Score >= 2 AND M_Score = 4 THEN 'Big Spenders'
-            WHEN R_Score <= 2 AND F_Score >= 2 AND M_Score >= 2 THEN 'At Risk'
+            WHEN R_Score <= 2 AND F_Score >= 2 THEN 'At Risk'
             WHEN R_Score = 1 AND F_Score = 1 AND M_Score = 1 THEN 'Lost'
-            WHEN R_Score = 4 AND F_Score <= 2 THEN 'New Customers'
             WHEN R_Score <= 2 AND F_Score <= 2 AND M_Score <= 2 THEN 'Needs Attention'
             ELSE 'Others'
         END AS Segment
