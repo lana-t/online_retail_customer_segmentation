@@ -78,9 +78,9 @@ A fully interactive dashboard includes:
 
 ## Key Insights
 
-- **Champions (11.3%)** generate **50%+ of total revenue**  
+- **Champions (11.3%)** generate **48% of total revenue**  
 - **Top 20 customers** contribute **~24% of total revenue**  
-- **At Risk** customers make up 15% of the base and have not purchased in over 50 days  
+- **At Risk** customers make up 21% of the base and have not purchased in over 50 days  
 - Revenue dips in summer and peaks in November, indicating seasonal trends  
 - Most top-performing products are **low-cost, high-volume** items  
 - Product demand is **diverse**, suggesting value in personalised marketing
