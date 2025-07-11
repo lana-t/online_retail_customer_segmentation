@@ -55,17 +55,6 @@ This case study uses the [Online Retail dataset](https://archive.ics.uci.edu/dat
 
 <br/>
 
-## Business Impact
-
-This project demonstrates how RFM segmentation and transaction data can:
-- Improve **customer retention**
-- Enable **targeted marketing**
-- Highlight **revenue concentration**
-- Inform **promotional strategies**
-
-<br/>
-
-
 ## Power BI Dashboard
 
 A fully interactive dashboard includes:
@@ -97,10 +86,20 @@ A fully interactive dashboard includes:
 
 <br/>
 
+## Business Impact
+
+This project demonstrates how RFM segmentation and transaction data can:
+- Improve **customer retention**
+- Enable **targeted marketing**
+- Highlight **revenue concentration**
+- Inform **promotional strategies**
+
+<br/>
+
 ## Contact
 
 Lana Trimmer<br/>
-[LinkedIn](https://www.linkedin.com/in/lana-t-861549342/) • [Portfolio](#) • [Email](lana.trimmer32@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lana-trimmer/) • [Portfolio](#) • [Email](lana.trimmer32@gmail.com)
 
 
 
